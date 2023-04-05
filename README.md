@@ -15,3 +15,9 @@ Our project focused on understanding food demand in Nigeria and the relationship
 - Chenxi Yao
 - Jeltsin Obregon Mogollon
 - Sydney Henderson
+
+## Deadlines
+- Code Draft (04/05)
+- Code Review (04/07)
+- Final Presentation (04/10)
+
