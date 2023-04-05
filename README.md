@@ -1,6 +1,6 @@
 # EEP153 Proj 3: Team Akinwumi Adesina (F)
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/eddieguo-1128/EEP153_Proj3/blob/main/nigeria.jpg))
+![alt text](https://github.com/eddieguo-1128/EEP153_Proj3/blob/main/nigeria.jpg)
 
 ## Population of Interest
 Young population of Nigeria
